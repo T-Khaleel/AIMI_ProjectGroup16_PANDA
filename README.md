@@ -1,7 +1,9 @@
 # AIMI_ProjectGroup16_PANDA
 ## Testing Foundation Models for Digital Pathology on a Public Prostate Cancer Detection Challenge
 
-This is the project on Prostate cANcer graDe Assessment (PANDA) Challenge done by group 16 for AIMI course.
+
+
+This is the project on Prostate cANcer graDe Assessment (PANDA) Challenge done by group 16 for AIMI course by the group members: Eelke Spijkers, Laura Euverman, Mika Klepper, Taha Khaleel.
 
 
 This project consists of three main Jupyter notebooks:
@@ -11,9 +13,11 @@ This project consists of three main Jupyter notebooks:
 
 Follow these steps to use the notebooks:
 
-###Installation:
+### Installation:
 Main libraries needed to run the files are Trident and Titan from the mahmoodlab. To run the inference file offline on kaggle, please download these libraries first and import them as datasets for the inference file.
 
+
+### How to use the files:
 ------------------------------------------------------------
 1) Extract Embeddings (phikon-Extract-Embd-Files.ipynb)
 
@@ -58,6 +62,8 @@ Summary of Workflow
 3) Train the model in training-file-phikon_.ipynb
 4) Download the trained model weights from kaggle/working
 5) Run inference using offline-inference-trident-pipeline.ipynb with the downloaded weights
+
+
 
 ------------------------------------------------------------
 Notes:
