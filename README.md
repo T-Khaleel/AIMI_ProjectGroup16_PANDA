@@ -11,6 +11,9 @@ This project consists of three main Jupyter notebooks:
 
 Follow these steps to use the notebooks:
 
+###Installation:
+Main libraries needed to run the files are Trident and Titan from the mahmoodlab. To run the inference file offline on kaggle, please download these libraries first and import them as datasets for the inference file.
+
 ------------------------------------------------------------
 1) Extract Embeddings (phikon-Extract-Embd-Files.ipynb)
 
