@@ -11,6 +11,8 @@ This project consists of three main Jupyter notebooks:
 2) training-file-phikon_.ipynb
 3) offline-inference-trident-pipeline.ipynb
 
+To get the models and weights for the pipeline, please check the Release section of this repo.
+
 Follow these steps to use the notebooks:
 
 ### Installation:
